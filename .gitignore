@@ -1,0 +1,17 @@
+**/target/
+/target/**
+/target
+.classpath
+.settings
+.project
+/bin
+/WebContent
+reqid-seq.ser
+.factorypath
+.idea
+*.iml
+*.orig
+*.jasper
+src/main/resources/rebel.xml
+src/main/resources/rebel-remote.xml
+.DS_STORE
