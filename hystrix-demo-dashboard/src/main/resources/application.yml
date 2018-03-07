@@ -1,0 +1,9 @@
+server:
+  port: 8085
+eureka:
+  client:
+    register-with-eureka: false
+turbine:
+  app-config: dummy-dashboard,school-dashboard
+  aggregator:
+    cluster-config: DUMMY-DASHBOARD,SCHOOL-DASHBOARD
